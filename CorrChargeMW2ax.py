@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # ----------------------------
 # INPUT: Sequence
 # ----------------------------
-J = "SEEKKENDKEEGSMSSRIESLTIQEDAKEGVEDEEDGLPETGG"
+J = "XYZ"
 sequence = J  # your residue string
 positions = np.arange(1, len(sequence) + 1)  # biological numbering
 
